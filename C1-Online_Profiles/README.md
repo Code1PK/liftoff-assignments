@@ -12,7 +12,7 @@ Provide a link to your GitHub account here.
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.  
-[link](https://www.linkedin.com/in/ekaterina-pykhteeva/)
+[Link](https://www.linkedin.com/in/ekaterina-pykhteeva/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
